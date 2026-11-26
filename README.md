@@ -88,4 +88,3 @@ I believe the future of software engineering is not just better AI models, but b
 ## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-moezat.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moezat.com)
-[![Company](https://img.shields.io/badge/Flexity_Automation-flexity.ai-16803C?style=for-the-badge)](https://flexity.ai)
